@@ -63,7 +63,7 @@ Material:
     - _NormalScale: 0.1
     - _OpaqueCullMode: 2
     - _Smoothness: 0.609
-    - _UseEmissiveIntensity: 1
+    - _UseEmissiveIntensity: 0
     m_Colors:
     - _EmissiveColor: {r: 1, g: 1, b: 1, a: 1}
     - _EmissiveColorLDR: {r: 1, g: 1, b: 1, a: 1}
