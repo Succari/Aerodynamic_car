@@ -6,6 +6,7 @@ TagManager:
   tags:
   - plot-1
   - Plot
+  - Particle
   layers:
   - Default
   - TransparentFX
